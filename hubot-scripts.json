@@ -1,1 +1,1 @@
-["redis-brain.coffee", "shipit.coffee"]
+["redis-brain.coffee", "shipit.coffee", "commitmessage.coffee", "conversation.coffee", "dilbert.coffee", "email.coffee", "grumpycat.coffee", "hashing.coffee", "jenkins.coffee", "pomodoro.coffee", "tasks.coffee", "weather.coffee", "wikipedia.coffee", "xkcd.coffee"]
