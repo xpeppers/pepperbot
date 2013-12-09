@@ -1,4 +1,4 @@
-# XPeppers Hubot
+# Pepperbot
 
 This is XPeppers version of GitHub's Campfire bot, hubot. He's pretty cool.
 
