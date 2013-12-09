@@ -1,28 +1,24 @@
 {
-  "name": "hosted-hubot",
-  "version": "2.6.3",
-  "author": "GitHub Inc.",
+  "name": "Pepperbot",
+  "version": "1.0.0",
   "keywords": [
+    "xpeppers",
     "github",
     "hubot",
+    "pepperbot",
     "campfire",
+    "slack",
     "bot"
   ],
-  "description": "A simple helpful robot for your Company",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/github/hubot/raw/master/LICENSE"
-    }
-  ],
+  "description": "XPeppers bot",
   "repository": {
     "type": "git",
-    "url": "https://github.com/github/hubot.git"
+    "url": "https://github.com/xpeppers/pepperbot.git"
   },
   "dependencies": {
-    "hubot": ">= 2.6.0 < 3.0.0",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-slack": "~1.5.1"
+    "hubot": "",
+    "hubot-scripts": "",
+    "hubot-slack": ""
   },
   "engines": {
     "node": ">= 0.8.x",
