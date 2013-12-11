@@ -19,7 +19,8 @@
     "hubot": "",
     "hubot-scripts": "",
     "hubot-slack": "",
-    "htmlparser" : ""
+    "htmlparser" : "",
+    "underscore" : ""
   },
   "engines": {
     "node": ">= 0.8.x",
