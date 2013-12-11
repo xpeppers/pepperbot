@@ -18,7 +18,8 @@
   "dependencies": {
     "hubot": "",
     "hubot-scripts": "",
-    "hubot-slack": ""
+    "hubot-slack": "",
+    "htmlparser" : ""
   },
   "engines": {
     "node": ">= 0.8.x",
