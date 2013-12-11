@@ -21,7 +21,8 @@
     "hubot-slack": "",
     "htmlparser" : "",
     "underscore" : "",
-    "underscore.string" : ""
+    "underscore.string" : "",
+    "soupselect" : ""
   },
   "engines": {
     "node": ">= 0.8.x",
